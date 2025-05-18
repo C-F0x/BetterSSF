@@ -1,27 +1,29 @@
-# BetterSSF
-## rename ssf and rm restrict
+# ***搜狗的限制更加严格了，转 [fctix5](https://github.com/fcitx5-android/fcitx5-android) 了***
 
-搜狗输入法皮肤文件重新命名和去除付费限制
+## ~~BetterSSF~~
+### ~~rename ssf and rm restrict~~
 
-### **如何使用**
+<del>搜狗输入法皮肤文件重新命名和去除付费限制
 
-1.将需要修改的ssf复制到 ./To-Be-Convert 
+#### ~~如何使用~~
 
-```linux
-mkdir To-Be-Convert 
-```
+~~1.将需要修改的ssf复制到 ./To-Be-Convert~~
 
-2.运行 Conv.py
+<del>```linux
+<del>mkdir To-Be-Convert 
+<del>```
 
-```python
-python3 Conv.py
-```
+<del>2.运行 Conv.py
 
-### **依赖**
-Python ≥ 3.6
+<del>```python
+<del>python3 Conv.py
+<del>```
 
-~~pip install -r requirements.txt~~
+#### ~~依赖~~
+<del>Python ≥ 3.6
 
-此项目使用Python标准库，无需额外依赖
+<del>pip install -r requirements.txt
+
+<del>此项目使用Python标准库，无需额外依赖
 
 # 关注永雏塔菲谢谢喵
